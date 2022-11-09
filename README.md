@@ -1,2 +1,6 @@
 # 04-Laravel-app-for-selling-and-buying
- 1- Login/Register laravel/ui (user interface) 2- user home page 3 -Create Ad (image price category) 4- User deposit 5 - Messages 6-views 7-delete ads 8-edit ads 
+
+This application is made in Laravel. The application uses MySQl as a database. Bootstrap is used for the layout of the pages.
+The application enables Login/Registerlaravel/ui (user interface), User Home page, create Ad (images, price, category), deposit, messages. There is a slider for images. Relations between databases that communicate together. CRUD system as well as ad preview.
+
+ 
